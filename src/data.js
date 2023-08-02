@@ -152,38 +152,38 @@ export const faqs = [
 export const testimonials = [
     {
         id: 1,
-        name: "Diana Ayi",
+        name: "Mehedi Hasan",
         quote: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
-        job: "Student",
-        avatar: require("./images/1.jpg")
+        job: "Software Developer",
+        avatar: require("./images/mehedi.jpg")
     },
     {
         id: 2,
-        name: "Daniel Vinyo",
+        name: "Mahmudul Hasan Pulok",
         quote: "Harum quaerat hic consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum this and that odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "Software Egineer",
-        avatar: require("./images/1.jpg")
+        job: "Student",
+        avatar: require("./images/pulok.jpg")
     },
     {
         id: 3,
-        name: "Edem Quist",
+        name: "Abdur Rauf Raihan",
         quote: "Quaerat hic praesentium consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "University Lecturer",
-        avatar: require("./images/1.jpg")
+        job: "Software Engineer",
+        avatar: require("./images/abdur.jpg")
     },
     {
         id: 4,
-        name: "Grace Lavoe",
+        name: "Kazi Shamsil Arefine",
         quote: "Cupiditate deleniti sint consequuntur molestias repellat ad quo tenetur vitae rem, labore quisquam? Atque, assumenda rerum odit harum quaerat hic praesentium quisquam quae, enim iste ipsam id repellat.",
-        job: "Talking Parrot",
-        avatar: require("./images/1.jpg")
+        job: "Senior Software Engineer",
+        avatar: require("./images/kazi.jpg")
     },
     {
         id: 5,
-        name: "Nana Yaa Dankwa",
+        name: "Sadnam Shuvo",
         quote: "Maxime minima cumque sit amet consectetur adipisicing elit. Praesentium ipsam facere ea a laboriosam sed? Quod vel voluptates a! Maxime minima cumque aut? In expedita numquam consectetur non officia iusto.",
-        job: "Pharmacist",
-        avatar: require("./images/1.jpg")
+        job: "SQA Engineer",
+        avatar: require("./images/sadnam.jpg")
     }
 ]
 
