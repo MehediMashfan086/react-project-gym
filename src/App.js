@@ -7,7 +7,7 @@ import Gallery from './pages/Gallery/Gallery';
 import Plans from './pages/Plans/Plans';
 import Trainers from './pages/Trainers/Trainers';
 import NotFound from './pages/NotFound/NotFound';
-import Navbar from './components/Navbar/Navbar';
+import Navbar from './components/Navbar';
 
 const App = () => {
   return (

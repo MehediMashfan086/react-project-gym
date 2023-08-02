@@ -1,9 +1,8 @@
 import React from 'react'
-import SectionHead from '../SectionHead/SectionHead'
-import { faqs } from "../../data"
+import SectionHead from './SectionHead'
+import { faqs } from "../data"
 import { FaQuestion } from "react-icons/fa"
 import FAQ from './FAQ'
-// import Card from "../../UI/Card"
 
 const FAQs = () => {
   return (
