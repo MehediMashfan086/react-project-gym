@@ -8,6 +8,7 @@ import Plans from './pages/Plans/Plans';
 import Trainers from './pages/Trainers/Trainers';
 import NotFound from './pages/NotFound/NotFound';
 import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
@@ -22,6 +23,7 @@ const App = () => {
         <Route path='contact' element={<Contact />} />
         <Route path='*' element={<NotFound />} />
       </Routes>
+      <Footer />
     </BrowserRouter>
   )
 }
