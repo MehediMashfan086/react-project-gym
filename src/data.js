@@ -239,7 +239,7 @@ export const plans = [
     {
         id: 3,
         name: 'Platinum Package',
-        desc: 'This package is perfect for busy people who need home service',
+        desc: 'This package is perfect for busy people who need home service plan',
         price: 89.99,
         features: [
             {feature: 'First Feature', available: true},
