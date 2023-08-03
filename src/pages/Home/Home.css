@@ -276,9 +276,6 @@ footer {
 }
 
 .footer-copyright {
-    /* display: flex;
-    justify-content: center;
-    margin-top: 1rem; */
     color: var(--color-gray-100);
     text-align: center;
     padding: 1.5rem 0;
